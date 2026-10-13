@@ -1,8 +1,18 @@
-### Hi there 👋, I'm Muktadir! 
+<h1 align="center">Hi there 👋, I'm Muktadir!</h1>
+<h3 align="center">A Passionate CSE Undergrad & Tech Explorer</h3>
 
-* 💻 I am a First-Year Undergraduate student in **Computer Science and Engineering (CSE)**.
-* 🌱 Currently exploring programming, software development, and tech.
-* ⚡ Fun fact: I love building unique web projects and tinkering with tech!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muktadir-669&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Coding%20&%20Learning-blue?style=flat-square" alt="Status" />
+</p>
+
+---
+
+### 🚀 About Me
+* 💻 I am a **First-Year CSE Undergraduate** diving deep into computer science and software development.
+* 🛡️ Deeply interested in exploring fields like **Cybersecurity** and technology systems.
+* 🌱 Always eager to learn new languages, build unique web projects, and solve complex problems.
+* ⚡ Fun fact: I love tinkering with code to see how things work under the hood!
 
 ---
 
@@ -18,7 +28,18 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Muktadir-669&show_icons=true&theme=radical" />
+### 📊 GitHub Stats & Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muktadir-669&show_icons=true&theme=radical&hide_border=true&bg_color=121212" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muktadir-669&theme=radical&hide_border=true&background=121212" alt="GitHub Streak" />
+</p>
+
+---
+
+### Connect with me
+<p align="center">
+  <a href="https://github.com/Muktadir-669"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
