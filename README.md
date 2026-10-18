@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muktadir-669&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Muktadir-669&style=flat-square&color="blueviolet" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Coding%20&%20Learning-blue?style=flat-square" alt="Status" />
 </p>
 
